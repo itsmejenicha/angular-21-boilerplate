@@ -132,7 +132,7 @@ This section assumes you are starting fresh and want to see the full flow.
 3. If you are using the fake backend, a "reset password email" will appear as an alert with a link
 4. Click the reset link and set a new password
 
-### D) Prifle and Admin areas
+### D) Profile and Admin areas
 
 - Profile  pagesb allow you to view and update your own account details.
 - The admin area is restricted to accounts with the `Admin` role.
